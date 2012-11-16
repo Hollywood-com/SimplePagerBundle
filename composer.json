@@ -1,7 +1,7 @@
 {
     "name": "hw/simple-pager-bundle",
     "autoload": {
-        "psr-0": { "Ideato\\SimplePagerBundle": "" }
+        "psr-0": { "Ideato": "./" }
     },
     "require": {
         "php": ">=5.3.3"
